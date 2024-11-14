@@ -16,3 +16,10 @@ console.log(stdElon);
 
 const stdStew = new Student("Stew Job", "Pune", 56, false);
 console.log(stdStew);
+
+
+
+
+
+
+
